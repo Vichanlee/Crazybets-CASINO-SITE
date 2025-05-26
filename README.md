@@ -1,2 +1,46 @@
-# Crazybets-CASINO-SITE
-This is the latest crazybets.cc src. Interested? Click the link below.
+# Your #1 Ready-made Online Casino Solution
+
+![Crazybets.cc Logo](https://github.com/buycasinocc/ready-made-casino-v1/assets/170767022/9fcecb43-b429-49d1-bc42-962945f4f490)
+
+Introducing Crazybets.cc, your premade online casino template featuring Crypto, CS:GO, Growtopia, and Roblox themes. Start your online casino journey with our comprehensive package of games and features, perfect for launching your own online casino platform.
+
+## How to Install
+
+- **EDIT:** `sql.php`, `config/config.php`, `template/js/app.js` (LINE: 471), `server/config.js`
+- **INSTALL NODE.JS:** 
+  - GO TO `server/` AND RUN `npm install`
+- **TO IMPORT SLOT GAMES:** 
+  - RUN `node server/addGames.js`
+- **INSTALL PM2:** 
+  - `npm install -g pm2`
+- **START SERVER:** 
+  - `pm2 start server/server.js`
+
+## Desktop Version
+
+![Desktop Version](![Image](https://github.com/user-attachments/assets/b0d57a5b-5105-45e2-820d-4aeb0d11b521))
+
+## Mobile Version
+
+![Mobile Version 1](https://github.com/buycasinocc/ready-made-casino-v1/assets/170767022/bab2b240-787e-41e8-933d-1547056fb7cf)
+![Mobile Version 2](https://github.com/buycasinocc/ready-made-casino-v1/assets/170767022/494904a7-e128-4a3c-b591-b4d9b18455e8)
+![Mobile Version 3](https://github.com/buycasinocc/ready-made-casino-v1/assets/170767022/eecb1bae-617b-4654-b13a-a3179e877381)
+![Mobile Version 4](https://github.com/buycasinocc/ready-made-casino-v1/assets/170767022/48d6b71b-5586-44ae-839a-66f45ebf0ea7)
+
+## Additional Information
+
+For clients interested in purchasing the Crazybets.cc pre-made template, we offer a fully functional online casino package. This includes:
+- Over 800+ slot and live casino games
+- 8 house games *All working and fixed games w/ Probability Fair*
+- Probability Fair with Verifier system
+- Live sports betting
+- 7 pre-installed payment methods (customizable)
+- Crypto deposit and withdrawal system
+- Bonus system, referral program, Promotions system, user profiles, and much more!
+
+Contact us for access to Crazybets.cc :
+- Website: Crazybets.cc
+- Telegram: t.me/hesuse
+- Discord: Find me on discord by searching [hesues] <= im active here
+# https://www.youtube.com/watch?v=kDbSGd5Hnzs <Youtube video here
+
