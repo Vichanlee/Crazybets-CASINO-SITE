@@ -18,14 +18,17 @@ Introducing Crazybets.cc, your premade online casino template featuring Crypto, 
 
 ## Desktop Version
 
-![Desktop Version](https://github.com/user-attachments/assets/cd2c0467-a425-474d-b928-ef7393296ff0)
+![Desktop Version 1](https://github.com/user-attachments/assets/cd2c0467-a425-474d-b928-ef7393296ff0)
+![Desktop Version 2](https://github.com/user-attachments/assets/29a42ead-444b-4d03-9c5c-e91121ffd038)
+![Desktop Version 3](https://github.com/user-attachments/assets/6485b21d-9f43-4b69-9e48-8e38cfa1d422)
+![Desktop Version 4](https://github.com/user-attachments/assets/219c65ed-0fed-4461-9f1a-4d99cd65baa4)
 
 ## Mobile Version
 
-![Mobile Version 1](https://github.com/user-attachments/assets/da605d5c-490f-4f88-a795-e864fba7fb54)
-![Mobile Version 2](https://github.com/user-attachments/assets/0d5a63ff-47b1-4aa0-9c4f-7bb265df919b)
-![Mobile Version 3](https://github.com/user-attachments/assets/b89d1a25-be8d-4c8e-bc82-40c7f0842ab3)
-![Mobile Version 4](https://github.com/user-attachments/assets/792809ec-c030-4eaf-96cb-20e6c6d3f8f8)
+![Mobile Version 1](https://github.com/user-attachments/assets/1602eb63-dd6e-46f7-b09d-6fbeb722b24a)
+![Mobile Version 2](https://github.com/user-attachments/assets/f368afc3-e4d6-4a62-8ade-77e824b33bdf)
+![Mobile Version 3](https://github.com/user-attachments/assets/802eaf23-211f-4d20-953e-1c3dc24b5bbc)
+![Mobile Version 4](https://github.com/user-attachments/assets/37ab3a92-2064-43f4-a016-07eeb5acb7ce)
 
 ## Additional Information
 
@@ -42,5 +45,5 @@ Contact us for access/purchase Crazybets.cc :
 - Website: Crazybets.cc
 - Telegram: t.me/hesuse
 - Discord: Find me on discord by searching [hesues] <= im active here
-# https://www.youtube.com/watch?v=kDbSGd5Hnzs <Youtube video here
+# https://www.youtube.com/watch?v=prFl0EPIZIc 
 
