@@ -18,7 +18,7 @@ Introducing Crazybets.cc, your premade online casino template featuring Crypto, 
 
 ## Desktop Version
 
-![Desktop Version](![Image](https://github.com/user-attachments/assets/b0d57a5b-5105-45e2-820d-4aeb0d11b521))
+![Desktop Version](https://github.com/user-attachments/assets/b0d57a5b-5105-45e2-820d-4aeb0d11b521)
 
 ## Mobile Version
 
